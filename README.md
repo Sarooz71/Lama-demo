@@ -1,2 +1,4 @@
 # Lama-demo
-This is my first git peository
+This is my first git peository.
+Author-Saroj lama
+
